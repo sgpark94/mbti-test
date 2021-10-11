@@ -1,0 +1,47 @@
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+article{
+    display: flex;
+    flex-direction: column;
+}
+.question{
+    display: none;
+}
+.result{
+    display: none;
+    width: 300px;
+    margin: auto;
+}
+#img{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+.share{
+    margin: 20px auto 0;
+}
+.kakao_ad{
+    width: 320px;
+    margin: 0 auto;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin: 0 auto;
+}
+.banner-img{
+    width: 100%;
+}
+.ad{
+    display: none;
+    padding-bottom: 50px;
+}
+#animal {
+    font-size: 20px;
+}
+#explain{
+    line-height: 1.6;
+    font-size: 16px;
+}
